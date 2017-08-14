@@ -1,0 +1,21 @@
+<code_scheme name="Squizer">
+  <option name="HTML_ATTRIBUTE_WRAP" value="0" />
+  <option name="HTML_TEXT_WRAP" value="0" />
+  <PHPCodeStyleSettings>
+    <option name="ALIGN_KEY_VALUE_PAIRS" value="true" />
+    <option name="ALIGN_PHPDOC_PARAM_NAMES" value="true" />
+    <option name="ALIGN_PHPDOC_COMMENTS" value="true" />
+    <option name="ALIGN_ASSIGNMENTS" value="true" />
+    <option name="PHPDOC_BLANK_LINE_BEFORE_TAGS" value="true" />
+    <option name="PHPDOC_BLANK_LINES_AROUND_PARAMETERS" value="true" />
+    <option name="ALIGN_CLASS_CONSTANTS" value="true" />
+  </PHPCodeStyleSettings>
+  <codeStyleSettings language="PHP">
+    <option name="KEEP_FIRST_COLUMN_COMMENT" value="false" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="0" />
+    <option name="BLANK_LINES_AROUND_FIELD" value="1" />
+    <option name="BLANK_LINES_AROUND_METHOD" value="2" />
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="SPACE_AROUND_MULTIPLICATIVE_OPERATORS" value="false" />
+  </codeStyleSettings>
+</code_scheme>
